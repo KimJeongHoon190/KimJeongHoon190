@@ -26,4 +26,4 @@
 
 
 ## Kim Jeong Hoon의 기술 블로그 방문하기
-[저를 클릭해주세요](https://cloudhedgehog.tistory.com/)
+[Click Here!](https://cloudhedgehog.tistory.com/)
