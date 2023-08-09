@@ -8,6 +8,7 @@
 [![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Apache](https://img.shields.io/badge/Apache-gray?logo=apache&logoColor=white)](https://www.apache.org/)
 [![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/)[![Terraform](https://img.shields.io/badge/Terraform-lightgrey?logo=terraform&logoColor=pink)](https://www.terraform.io/)
+[![Vagrant](https://img.shields.io/badge/Vagrant-orange?logo=vagrant&logoColor=purple)](https://www.vagrantup.com/)
 
 
 ## Technical Certification
