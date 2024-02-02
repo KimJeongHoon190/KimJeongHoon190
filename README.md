@@ -26,3 +26,6 @@
 
 ## Kim Jeong Hoon의 기술 블로그 방문하기
 [Click Here!](https://cloudhedgehog.tistory.com/)
+
+## Current Status
+오픈소스 SE로 근무 중 
