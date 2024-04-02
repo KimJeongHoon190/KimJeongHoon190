@@ -30,4 +30,4 @@
 [Click Here!](https://cloudhedgehog.tistory.com/)
 
 ## Current Status
-오픈소스 SE로 근무 중 
+Red Hat OpenShift 클라우드 엔지니어로 근무 중  
