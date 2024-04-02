@@ -14,7 +14,7 @@
 
 ## Technical Certification
 [![자격증](./image/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/681da0e2-83ec-443f-961a-eddbd3625e0d)
-[![자격증](./image/red-hat-certified-system-administrator-rhcsa.png)]([https://www.credly.com/badges/681da0e2-83ec-443f-961a-eddbd3625e0d](https://www.credly.com/earner/earned/badge/5f96d4ab-8065-4ee6-b4a1-35df3b3bf63d))
+[![자격증2](./image/red-hat-certified-system-administrator-rhcsa.png)](https://www.credly.com/earner/earned/badge/5f96d4ab-8065-4ee6-b4a1-35df3b3bf63d)
 
 ## Language Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimJeongHoon190&layout=compact&theme=dark)
